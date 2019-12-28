@@ -5,7 +5,7 @@ import "./index.css";
 import * as serviceWorker from "./serviceWorker";
 import "bootstrap/dist/css/bootstrap.css";
 import "font-awesome/css/font-awesome.css";
-import Movies from "./components/Movies";
+import Movies from "./components/movies";
 ReactDOM.render(<Movies />, document.getElementById("root"));
 
 // If you want your app to work offline and load faster, you can change
