@@ -8,6 +8,7 @@ import Rentals from "./components/rentals";
 import NotFound from "./components/notFound";
 import LoginForm from "./components/loginForm";
 import "./App.css";
+
 class App extends Component {
   state = {};
   render() {
