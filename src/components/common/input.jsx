@@ -8,8 +8,8 @@ const Input = ({ name, label, value, onChange }) => {
         value={value}
         onChange={onChange}
         autoFocus
-        id="username"
-        name="username"
+        id={name}
+        name={name}
         type="text"
         className="form-control"
       />
